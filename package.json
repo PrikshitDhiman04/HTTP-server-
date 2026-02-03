@@ -9,7 +9,7 @@
     "test:coverage": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "Prikshit",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0",
